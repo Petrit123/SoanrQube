@@ -52,7 +52,7 @@ objects:
     tags:
       - annotations:
           openshift.io/generated-by: OpenShiftWebConsole
-          openshift.io/imported-from: 'sonarqube:8.0-community'
+          openshift.io/imported-from: 'sonarqube:7.9-community'
         from:
           kind: DockerImage
           name: 'sonarqube:8.0-community'
